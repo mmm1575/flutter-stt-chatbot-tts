@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/ibm_watson_assistant/BuildConfig.java
+ com.example.ibm_watson_assistant.BuildConfig
